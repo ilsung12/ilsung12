@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hello World ! 🎉</h1>
-- 🌱 I’m currently learning **React, Vue, Ts...**
+
+- 🌱 I’m currently learning React, Vue, Ts...
 
 - 📝 I regularly write articles on [https://his-story.tistory.com/](https://his-story.tistory.com/)
 
