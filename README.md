@@ -4,7 +4,7 @@
 
 - 📝 I regularly write articles on [https://his-story.tistory.com/](https://his-story.tistory.com/)
 
-- 📫 How to reach me **a01041118225@gmail.com**
+- 📫 How to reach me **xogh3132@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
