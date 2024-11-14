@@ -2,8 +2,6 @@
 
 - 🌱 I’m currently learning React, Vue, Ts...
 
-- 📝 I regularly write articles on [https://his-story.tistory.com/](https://his-story.tistory.com/)
-
 - 📫 How to reach me **xogh3132@gmail.com**
 
 
